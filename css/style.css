@@ -1,0 +1,78 @@
+main, header, footer{
+    font-family: "Lucida Grande", "verdana";
+    color: #ffffff;
+}
+
+
+div{
+    height: 150px;
+    padding: 25px;
+}
+p{
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+
+header, img, footer, #intro{
+    background-color: #000000;
+}
+
+img{
+    display: block;
+    text-align: center;
+    width: 525px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 64px ;
+}
+
+h2{
+    font-size: 30px ;
+    text-shadow: 5px 5px 2px #808080;
+}
+
+#red {
+    background-color:#ff0000;
+    text-align: right;
+}
+
+#blue {
+    background-color:#0000ff;
+    text-align: left;
+}
+
+#yellow{
+    background-color: #ffff00 ;
+    text-align: right;
+}
+
+#yellow h2{
+    color: #000000 ;
+    text-align: right;
+    text-shadow: 5px 5px 2px #c7e2c7;
+}
+
+#yellow p{
+    color: #000000 ; s
+}
+
+#green {
+    background-color: #008000;
+    text-align:left
+}
+
+footer p{
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    font-size: 10px ;
+    text-align: right;
+
+
+}
